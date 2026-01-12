@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="Haris", # PyPI par unique hona chahiye
-    version="0.0.1", # aapke module ke docstring se match
+    version="0.0.5", # aapke module ke docstring se match
     py_modules=["main"], # kyunki sirf main.py hai
     description="Advanced DSA & AI Engine - single file implementation",
     author="Sheikh haris raza",
@@ -15,3 +15,4 @@ setup(
     ],
 
 )
+
